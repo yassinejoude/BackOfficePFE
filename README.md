@@ -1,4 +1,3 @@
-# admin_temp
 
 ## Project setup
 ```
